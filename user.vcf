@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Chong;Minion;;;
+FN: Minion  Chong 
+ORG:Sun Holdings;
+TITLE:Group CEO
+EMAIL;type=INTERNET;type=WORK;type=pref:minion@sun.my
+TEL;type=WORK;type=VOICE:+6012 3456789
+item1.ADR;type=WORK;type=pref:;;18 07\, Plaza MWE\n8\, Lebuh Farquhar;;;10200;Malaysia
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:sun.my
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
